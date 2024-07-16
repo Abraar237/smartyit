@@ -1,0 +1,13 @@
+pypdf
+langchain
+chromadb 
+pytest
+langchain-cohere
+streamlit
+langchain-community
+langchain
+langchain-core
+langchain-groq
+groq
+chromadb
+pysqlite3-binary
