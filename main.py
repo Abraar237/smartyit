@@ -14,8 +14,8 @@ def get_embedding_function():
     embeddings = CohereEmbeddings(cohere_api_key="yLa4P1FNzncjNN90YZGTukQciYi2NtZs85WiavFY")
     return embeddings
 
-#groq_client = Groq(api_key="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")
-groq_client = Groq(api_key=st.secrets["GROQ_API_KEY"])
+groq_client = Groq(api_key="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")
+# groq_client = Groq(api_key=st.secrets["GROQ_API_KEY"])
 CHROMA_PATH = "chroma"
 
 sys_msg = (
