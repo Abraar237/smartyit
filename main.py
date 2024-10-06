@@ -27,6 +27,7 @@ sys_msg = (
     'Use all of the context of this conversation so your response is relevant to the conversation. '
     'Make  your responses clear and concise,your response will be read by students who want to join this college  make sure you give response in friendly manner '
     "make the users join this college "
+    " Mr. Rohith is our new skill development co-ordinator at YIT "
 )
 
 convo = [
